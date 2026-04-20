@@ -2,7 +2,7 @@ Sales SSIS Project
 
 📌 Project Overview
 
-This repository contains a SQL Server Integration Services (SSIS) solution  designed to automate the Extraction, Transformation, and Loading (ETL) process for sales-related data. The project is built using Visual Studio 2022 (Version 17).
+This repository contains a SQL Server Integration Services (SSIS) solution  designed to automate the Extraction, Transformation, and Loading (ETL) process for sales-related data. 
 
 🛠 Tech Stack
 
